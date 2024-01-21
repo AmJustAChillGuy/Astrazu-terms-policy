@@ -28,8 +28,8 @@
 - [AsTrazu] may intervene in issues to ensure fair play. Users found violating these terms may face corrective actions, including temporary or permanent bans.
 
 ## 10. Contact Information:
-- For inquiries or concerns, contact [Your Contact Information].
+- For inquiries or concerns, contact [senghongly8828@gmail.com].
 
-By using [Your Bot Name], you acknowledge that you have read and understood these terms and policies.
+By using [AsTrazu], you acknowledge that you have read and understood these terms and policies.
 
-**Last Updated: [Date]**
+**Last Updated: [21/1/2024]**
