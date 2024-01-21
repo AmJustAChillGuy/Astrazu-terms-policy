@@ -1,4 +1,3 @@
-# Astrazu-terms-policy
 **[AsTrazu] - Economy System Terms and Policy**
 
 1. **Economy System Usage:**
