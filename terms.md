@@ -30,4 +30,4 @@
 
 By participating in the economy system provided by [AsTrazu], you acknowledge that you have read and understood these terms and policies.
 
-**Last Updated: [Date]**
+**Last Updated: [21/1/2024]**
