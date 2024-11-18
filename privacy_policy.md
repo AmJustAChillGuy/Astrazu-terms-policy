@@ -1,8 +1,3 @@
-Here’s an updated version of your Terms and Policies without the economy system section:
-
-
----
-
 [AsTrazu] - Terms and Policies
 
 1. Music Features:
