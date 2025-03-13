@@ -1,30 +1,40 @@
-[AsTrazu] - Terms and Policies
+# Privacy Policy
 
-1. Music Features:
+## 1. Data Collection
+Our bot collects the following data to provide its features:
+- **User IDs**: Used to manage virtual currency, gambling activities, and user profiles (e.g., economy commands like `cash`, `daily`, `leaderboard`, and profile commands like `marry`, `level`).
+- **Server IDs**: Used to provide music functionality (e.g., `play`, `queue`, `skip`) and ensure proper operation of server-specific features.
+- **Message Content**: Used to process commands related to economy (`buy`, `rob`, `trade`), gambling (`blackjack`, `coinflip`, `slots`), music (`lyric`, `volume`), and general actions (`help`, `ping`, `userinfo`).
 
-[AsTrazu] provides music features for user enjoyment. Users are expected to comply with copyright laws and Discord's terms of service when using music commands.
+## 2. Data Usage
+The collected data is used solely for:
+- Executing bot commands across various modules:
+  - **Economy**: Managing virtual currency, transactions, and activities (`cash`, `deposit`, `lottery`, `work`, etc.).
+  - **Gambling**: Facilitating games like `blackjack`, `coinflip`, `dice`, and `slots`.
+  - **Music**: Playing, queuing, and controlling music playback (`play`, `skip`, `volume`, etc.).
+  - **Profile**: Customizing user profiles (`description`, `background`, `marry`, `profile`).
+  - **Actions**: Enabling fun interactions like `hug`, `kiss`, `slap`, and `wink`.
+  - **General**: Providing utility commands like `botinfo`, `invite`, `math`, and `serverbanner`.
+- Ensuring proper functionality of the bot within your server.
 
+## 3. Data Storage
+- All data is stored securely and is not shared with third parties.
+- No sensitive personal information (e.g., real names, email addresses) is stored outside of Discord.
+- Temporary caching of message content may occur to process commands but is not retained long-term.
 
-2. User Data:
+## 4. Data Protection
+We take reasonable measures to protect user data from unauthorized access or misuse. This includes:
+- Using secure connections (HTTPS) for data transmission.
+- Limiting access to stored data to authorized bot developers only.
 
-[AsTrazu] does not store sensitive information related to virtual currency transactions or user music preferences. Refer to our overall privacy policy for more details.
+## 5. Opt-Out
+Users can stop interacting with the bot at any time. If you wish to delete your stored data (e.g., economy balances, profile information), contact the bot owner via Discord using the information provided below.
 
+## 6. Updates
+This Privacy Policy may be updated periodically to reflect changes in bot functionality or legal requirements. Users will be notified of significant changes through announcements or updates in the bot’s support server.
 
-3. Changes to Features:
+---
 
-[AsTrazu] reserves the right to modify, suspend, or terminate features at any time. Users will be notified of significant changes.
-
-
-4. Moderation:
-
-[AsTrazu] may intervene in issues to ensure fair play. Users found violating these terms may face corrective actions, including temporary or permanent bans.
-
-
-5. Contact Information:
-
-For inquiries or concerns, contact [senghongly8828@gmail.com].
-
-
-By using [AsTrazu], you acknowledge that you have read and understood these terms and policies.
-
-Last Updated: [18/11/2024]
+### For Questions or Support
+For any questions about this Privacy Policy or how your data is handled, please contact us via Discord:  
+**[Your Discord Tag]** or **[Your Email Address]**
